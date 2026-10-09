@@ -1,12 +1,12 @@
 {
-  "version": "4.0.6",
-  "notes": "Oni Flow v4.0.6 release",
-  "pub_date": "2026-10-07T15:33:56.869Z",
+  "version": "4.0.7",
+  "notes": "Oni Flow v4.0.7 release",
+  "pub_date": "2026-10-09T15:45:44.368Z",
   "platforms": {
     "win32-x64": {
-      "url": "https://github.com/fernnguyen/OniFlow-Releases/releases/download/v4.0.6/OniFlow.Setup.4.0.6.exe",
-      "sha256": "cca9d03580367dacfbdb97919c3d85e7ab0f8054a2f326a66b1c3047020737e7",
-      "size": 145732698
+      "url": "https://github.com/fernnguyen/OniFlow-Releases/releases/download/v4.0.7/OniFlow.Setup.4.0.7.exe",
+      "sha256": "c5819d6d569adbc11b2772b56fabeadf49b59ae84ac2aafaba9a5aad90482332",
+      "size": 146732739
     }
   }
 }
