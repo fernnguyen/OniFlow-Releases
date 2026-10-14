@@ -1,12 +1,12 @@
 {
-  "version": "4.1.0",
-  "notes": "Oni Flow v4.1.0 release",
-  "pub_date": "2026-10-14T01:40:58.852Z",
+  "version": "4.1.1",
+  "notes": "Fix Windows & Python 3.13 compatibility across all microservices (Flowkit, ZeroTTS, VieNeu, MuseAI, Gemini TTS), auto-install Python venv dependencies, and redirect runtime files to writable AppData",
+  "pub_date": "2026-10-14T04:16:50.321Z",
   "platforms": {
     "win32-x64": {
-      "url": "https://github.com/fernnguyen/OniFlow-Releases/releases/download/v4.1.0/OniFlow.Setup.4.1.0.exe",
-      "sha256": "99ec839e3972175d7e140d5639e74dfb80e0d452aa890d94eb93744e992dfc71",
-      "size": 146789634
+      "url": "https://github.com/fernnguyen/OniFlow-Releases/releases/download/v4.1.1/OniFlow.Setup.4.1.1.exe",
+      "sha256": "625d758e3bcea0d0ae553217cc06525c15abf44e12841ad6eaa12e067659fba9",
+      "size": 147200227
     }
   }
 }
