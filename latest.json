@@ -1,12 +1,12 @@
 {
-  "version": "4.1.1",
-  "notes": "Fix Windows & Python 3.13 compatibility across all microservices (Flowkit, ZeroTTS, VieNeu, MuseAI, Gemini TTS), auto-install Python venv dependencies, and redirect runtime files to writable AppData",
-  "pub_date": "2026-10-14T04:16:50.321Z",
+  "version": "4.1.2",
+  "notes": "v4.1.2: Fix Backend -> Flowkit -> Chrome Extension generation pipeline, fix flowkit-extension.zip download archive invalid issue, and add centralized Error-Only Log Viewer & Exporter for Dev diagnostics",
+  "pub_date": "2026-10-15T10:15:57.737Z",
   "platforms": {
     "win32-x64": {
-      "url": "https://github.com/fernnguyen/OniFlow-Releases/releases/download/v4.1.1/OniFlow.Setup.4.1.1.exe",
-      "sha256": "625d758e3bcea0d0ae553217cc06525c15abf44e12841ad6eaa12e067659fba9",
-      "size": 147200227
+      "url": "https://github.com/fernnguyen/OniFlow-Releases/releases/download/v4.1.2/OniFlow.Setup.4.1.2.exe",
+      "sha256": "d9ac9c6b6daf265239250b15aacf59b93a9d41c176e0e7bd18c9b1a3e77926e8",
+      "size": 146800679
     }
   }
 }
