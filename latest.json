@@ -1,12 +1,12 @@
 {
-  "version": "4.1.2",
-  "notes": "v4.1.2: Fix Backend -> Flowkit -> Chrome Extension generation pipeline, fix flowkit-extension.zip download archive invalid issue, and add centralized Error-Only Log Viewer & Exporter for Dev diagnostics",
-  "pub_date": "2026-10-15T10:15:57.737Z",
+  "version": "4.1.3",
+  "notes": "Fix Edge TTS WebSocket 403 error (upgrade msedge-tts to v2.1.0)",
+  "pub_date": "2026-10-16T05:44:35.070Z",
   "platforms": {
     "win32-x64": {
-      "url": "https://github.com/fernnguyen/OniFlow-Releases/releases/download/v4.1.2/OniFlow.Setup.4.1.2.exe",
-      "sha256": "d9ac9c6b6daf265239250b15aacf59b93a9d41c176e0e7bd18c9b1a3e77926e8",
-      "size": 146800679
+      "url": "https://github.com/fernnguyen/OniFlow-Releases/releases/download/v4.1.3/OniFlow.Setup.4.1.3.exe",
+      "sha256": "427d2fc38fc9e9e4be71aa4aaa72580b92d195db06889637b0ead9234460f20b",
+      "size": 146801574
     }
   }
 }
